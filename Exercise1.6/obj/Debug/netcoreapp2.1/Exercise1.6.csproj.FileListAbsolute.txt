@@ -1,0 +1,11 @@
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\bin\Debug\netcoreapp2.1\Exercise1.6.deps.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\bin\Debug\netcoreapp2.1\Exercise1.6.runtimeconfig.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\bin\Debug\netcoreapp2.1\Exercise1.6.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\bin\Debug\netcoreapp2.1\Exercise1.6.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\bin\Debug\netcoreapp2.1\Exercise1.6.pdb
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Exercise1.6\obj\Debug\netcoreapp2.1\Exercise1.6.pdb

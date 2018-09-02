@@ -1,0 +1,11 @@
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\bin\Debug\netcoreapp2.1\C#-semester3.deps.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\bin\Debug\netcoreapp2.1\C#-semester3.runtimeconfig.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\bin\Debug\netcoreapp2.1\C#-semester3.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\bin\Debug\netcoreapp2.1\C#-semester3.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\bin\Debug\netcoreapp2.1\C#-semester3.pdb
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\obj\Debug\netcoreapp2.1\C#-semester3.pdb
