@@ -1,0 +1,11 @@
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\bin\Debug\netcoreapp2.1\Exercise2.3.deps.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\bin\Debug\netcoreapp2.1\Exercise2.3.runtimeconfig.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\bin\Debug\netcoreapp2.1\Exercise2.3.runtimeconfig.dev.json
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\bin\Debug\netcoreapp2.1\Exercise2.3.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\bin\Debug\netcoreapp2.1\Exercise2.3.pdb
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.csprojAssemblyReference.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.AssemblyInfo.cs
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.dll
+C:\Users\Claudiu\Desktop\Programming\C#-semester3\Session_01\Exercise2.3\obj\Debug\netcoreapp2.1\Exercise2.3.pdb

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\C#-semester3.csproj",
+      "projectUniqueName": "c:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\Example\\C#-semester3.csproj",
       "projectName": "C#-semester3",
-      "projectPath": "C:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\C#-semester3.csproj",
+      "projectPath": "c:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\Example\\C#-semester3.csproj",
       "packagesPath": "C:\\Users\\Claudiu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\obj\\",
+      "outputPath": "c:\\Users\\Claudiu\\Desktop\\Programming\\C#-semester3\\Example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
