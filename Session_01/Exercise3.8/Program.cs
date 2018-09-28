@@ -19,6 +19,8 @@ namespace Exercise3._8 {
             notifier1(name);
             notifier notifier2 = delegates.SayGoodbye;
             notifier2(name);
+            notifier1 += delegates.SayGoodbye;
+            notifier1(name);
         }
     }
 }

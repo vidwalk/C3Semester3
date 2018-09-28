@@ -21,8 +21,8 @@ namespace Exercise3._3 {
     class Program {
         static void Main (string[] args) {
             List<int> a = new List<int> () { 1, 2, 3, 4, 5 };
-            System.Console.WriteLine (ExtendedMethods.RandomResult (a));
-            ExtendedMethods.Shuffle (a);
+            System.Console.WriteLine (a.RandomResult()); //ExtendedMethods.RandomResult (a)
+            a.Shuffle(); // ExtendedMethods.Shuffle (a);
             for (int i = 0; i < a.Count; i++) {
                 System.Console.Write (a[i] + " ");
             }
