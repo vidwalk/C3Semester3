@@ -1,0 +1,5 @@
+1. Exit
+2. Rock-Paper-Scissor
+3. Calculate Budget(50/20/30 rule)
+4. Draw me something
+5. Manage my books list

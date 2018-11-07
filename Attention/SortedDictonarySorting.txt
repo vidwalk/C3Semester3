@@ -1,0 +1,6 @@
+private SortedDictionary<string, string> bookList = new SortedDictionary<string, string> ();
+
+Console.WriteLine ("Sorted by Authors:");
+                        foreach (KeyValuePair<string, string> sorted in bookList.OrderBy (key => key.Value)) {
+                            Console.WriteLine ("Title: {0}, Author: {1}", sorted.Key, sorted.Value);
+                        }
