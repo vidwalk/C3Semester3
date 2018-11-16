@@ -1,19 +1,16 @@
 using System;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-namespace Test
-{
-    class Cat{
 
-       /*  public Cat(int id, string name, string color, decimal price, DateTime birthdate, string favoriteDish)
+namespace Server.Entities
+{
+    public class Cat{
+
+        public Cat()
         {
-            this.id = id;
-            this.name = name;
-            this.color = color;
-            this.price = price;
-            this.birthdate = birthdate;
-            this.favoriteDish = favoriteDish;
-        }*/
+
+        }
         private int id;
         private string name;
         
@@ -21,7 +18,6 @@ namespace Test
         private decimal price;
         private DateTime birthdate;
         private string favoriteDish;
-        [Key]
         [Required (ErrorMessage="Id {0} is required")]
         public int Id { get => id; set => id = value; }
         [Required (ErrorMessage="Name {0} is required")]
@@ -35,7 +31,7 @@ namespace Test
         public string Color { get => color; set => color = value; }
         [Required (ErrorMessage="Price {0} is required")]
         [Column(TypeName = "decimal(18,2)")]
-        [DataType(DataType.Currency)]
+        
         public decimal Price { get => price; set => price = value; }
         public DateTime Birthdate { get => birthdate; set => birthdate = value; }
         public string FavoriteDish { get => favoriteDish; set => favoriteDish = value; }
